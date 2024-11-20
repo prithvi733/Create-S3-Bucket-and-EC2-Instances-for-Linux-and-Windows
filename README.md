@@ -1,4 +1,9 @@
  # EX-3 CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
+ 
+ ### NAME:V.PRITHVIRAJ
+ ### REG NUMBER:212222100038
+
+
   ## AIM
        To Create S3 bucket and EC2 Instances for Linux and Windows.
 ## PROBLEM STATEMENT
@@ -51,8 +56,7 @@ Connect to the Windows instance using RDP.
 ![image](https://github.com/user-attachments/assets/9510a304-ab1e-4ca2-a5ae-15bf978b85ff)
 
 
-### REG NUMBER:212222100038
-### NAME:V.PRITHVIRAJ
+
  
 ## RESULT:
 Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
